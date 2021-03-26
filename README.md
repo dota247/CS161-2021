@@ -14,14 +14,18 @@ Once you've verified that your program runs correctly, commit and push your proj
 
 ===================================================
 
-1. create function name animal.py. type following into code
+1. create script
 
-2. save the file as something
+2. record user input
 
-3. run the code
+3. return user input with a messege
 
-4. commit and push
+4. save the file as animal.py
 
-5. upload to grade scope
+5. run the code (does it work? if not fix)
 
-6. Drink Beer
+6. commit and push
+
+7. upload to Gradescope
+
+8. Drink Beer
